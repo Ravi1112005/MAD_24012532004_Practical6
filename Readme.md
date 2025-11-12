@@ -33,8 +33,7 @@ To achieve an edge-to-edge display, allowing your app to draw behind the system 
 
 ### SplashActivity
 1.  Create a `SplashActivity` that shows a logo with a tween animation.
-2.  The background should be a radial gradient from pink to blue.
-3.  The animation should use a combination of `<scale>`, `<translate>`, `<rotate>`, and `<alpha>` tags.
+2.  The animation should use a combination of `<scale>`, `<translate>`, `<rotate>`, and `<alpha>` tags.
 4.  After the animation, navigate to `MainActivity`.
 
 ### MainActivity
